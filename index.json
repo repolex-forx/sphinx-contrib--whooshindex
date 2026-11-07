@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "whooshindex",
+  "versions": [
+    {
+      "commit": "c53faf2ece7ded55ed58c200fd7bee3c19d40da5",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:49:28.026308+00:00"
+    }
+  ]
+}
